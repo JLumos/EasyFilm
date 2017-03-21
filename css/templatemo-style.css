@@ -24,6 +24,8 @@ body { overflow-x: hidden; }
 
 #navbarx {
 	background: #000;
+	height: 80px;
+
 }
 
 #footer {
