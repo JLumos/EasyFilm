@@ -243,15 +243,15 @@ body { overflow-x: hidden; }
 	margin-left: auto;
 }
 .input-group-addon { border-radius: 0; }
-#hotelCarTabs {
+#loginTabs {
 	border-bottom: none;
 	height: 52px;
 }
-#hotelCarTabs li {
+#loginTabs li {
 	width: 50%;
 	height: 100%;
 }
-#hotelCarTabs > li > a {
+#loginTabs > li > a {
 	margin-right: 0;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -263,14 +263,14 @@ body { overflow-x: hidden; }
 	color: #5C4905;
 	font-weight: 600;
 }
-#hotelCarTabs > li > a:hover,
-#hotelCarTabs > li > a:focus {
+#loginTabs > li > a:hover,
+#loginTabs > li > a:focus {
 	border: none;
 	background: #F9E58B;
 }
-#hotelCarTabs > li.active > a, 
-#hotelCarTabs > li.active > a:focus, 
-#hotelCarTabs > li.active > a:hover
+#loginTabs > li.active > a,
+#loginTabs > li.active > a:focus,
+#loginTabs > li.active > a:hover
 {
 	background: transparent;
 	border: none;	

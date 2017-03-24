@@ -245,21 +245,31 @@ body { overflow-x: hidden; }
 }
 .input-group-addon { border-radius: 0; }
 
-#hotelCarTabs {
+#loginTabs {
 	border-bottom: none;
 	height: 52px;
-	box-shadow: 0px 4px 20px 2px #888888
+	box-shadow: 0px -2px 20px 2px #888888;
 
 }
 
+#tabPane {
+	height:346px;
+}
+
+#register {
+
+	box-shadow: 0px 15px 20px 2px #888888;
+
+}
 #login {
-	box-shadow: 0px 11px 20px 2px #888888
+	box-shadow: 0px 15px 20px 2px #888888;
+
 }
-#hotelCarTabs li {
+#loginTabs li {
 	width: 50%;
 	height: 50%;
 }
-#hotelCarTabs > li > a {
+#loginTabs > li > a {
 	margin-right: 0;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -276,14 +286,14 @@ body { overflow-x: hidden; }
 	margin-bottom: 100px;
 	margin-top: -90px;
 }
-#hotelCarTabs > li > a:hover,
-#hotelCarTabs > li > a:focus {
+#loginTabs > li > a:hover,
+#loginTabs > li > a:focus {
 	border: none;
 	background: #F9E58B;
 }
-#hotelCarTabs > li.active > a, 
-#hotelCarTabs > li.active > a:focus, 
-#hotelCarTabs > li.active > a:hover
+#loginTabs > li.active > a,
+#loginTabs > li.active > a:focus,
+#loginTabs > li.active > a:hover
 {
 	background: transparent;
 	border: none;	
@@ -837,7 +847,6 @@ hr { border-top: 1px solid #111010; }
 	#tabb {
 		margin-top: 100px;
 	}
-	.- { height: 400px;	}
 	.tm-banner-title { font-size: 40px;	}
 	.tm-banner-subtitle { font-size: 24px; }
 	.tm-banner-inner { top: 0; }
