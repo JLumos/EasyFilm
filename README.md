@@ -5,7 +5,7 @@ Repositorio para el proyecto de DAW
 Easy Film es una aplicacion web que te permite visualizar contenido online de peliculas y series.
 Es un proyecto desarrollado en la asignatura Diseño de Aplicaciones Web de la UPM (ETSIINF).
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 - Spring Boot
 - Spring Security
 - Thymeleaf
@@ -15,6 +15,6 @@ Es un proyecto desarrollado en la asignatura Diseño de Aplicaciones Web de la U
 - JQuery, JS, HTML5, CSS
 - Java
 
-#Autores
+# Autores
 - Alejandra Lugilde Crende
 - Jesus Perez Melero
