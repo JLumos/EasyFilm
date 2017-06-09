@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<html class="no-js"/> 
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>EASY FILM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <meta property="og:title" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:site_name" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="favicon.ico"/>
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" type="text/css" href="css/animate.css"/>
+
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" type="text/css"  href="css/owl.carousel.min.css"/>
+
+    <link rel="stylesheet" type="text/css"  href="css/owl.theme.default.min.css"/>
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+
+</head>
+<body>
+<header role="banner" id="fh5co-header">
+    <div class="container">
+        <!-- <div class="row"> -->
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <!-- NAVBAR comun a toda la app -->
+                <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                <a class="navbar-brand" href="/home">Easy Film</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="/home" data-nav-section="home"><span>Home</span></a></li>
+                    <li><a href="#" data-nav-section="about"><span>About</span></a></li>
+                    <li><a href="#" data-nav-section="team"><span>Contact</span></a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- </div> -->
+    </div>
+</header>
+
+<!-- Carrusel con dos pantallas de inicio (ambas exactamente iguales en funcionamiento, con entrada de usuario y password, pero con estetica diferente para hacer la pagina mas dinamica) -->
+
+<div id="slider" data-section="home">
+    <div class="owl-carousel owl-carousel-fullwidth">
+        <!-- You may change the background color here. -->
+        <div class="item" style="background: #352f44;">
+            <div class="container" style="position: relative;">
+                <div class="row">
+                    <div class="col-md-7 col-sm-7">
+                        <div class="fh5co-owl-text-wrap">
+                            <div class="fh5co-owl-text">
+                                <h1 class="fh5co-lead to-animate"><b>EASY FILM</b></h1>
+                                <h2 class="fh5co-sub-lead to-animate"/>Easy Film is your best choice to visualize the movie of your choice, <b>from any device!</b>
+                                <!-- Comprobacion de las credenciales o del log out -->
+                                <p th:if="${param.error}" style="color:red"> <b>Wrong credentials</b></p>
+                                <p th:if="${param.logout}" style="color:red"><b>Logged out succesfully</b></p>
+                                <form th:action="@{/login}" method="post">
+                                    <div class="form-group col-5 col-md-4">
+                                        <label for="usr">Username:</label>
+                                        <input type="text" class="form-control user" name="username"/>
+                                    </div>
+
+                                    <div class="form-group col-5 col-md-4">
+                                        <label for="pwd">Password:</label>
+                                        <input type="password" class="form-control pwd" name="password"/>
+                                    </div>
+
+                                    <div class="form-group col-5 col-md-5">
+                                        <input type="submit" class="btn btn-info" value="Log in"/>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-md-push-1 col-sm-4 col-sm-push-1 iphone-image">
+                        <div class="iphone to-animate-2"><img src="img/popcorn-png-3.png" alt="image" class="img-responsive" /></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="item" style="background: #084C61;">
+            <div class="container" style="position: relative;">
+                <div class="row">
+                    <div class="col-md-7 col-md-push-1 col-md-push-5 col-sm-7 col-sm-push-1 col-sm-push-5">
+                        <div class="fh5co-owl-text-wrap">
+                            <div class="fh5co-owl-text">
+                                <h1 class="fh5co-lead to-animate"><b>EASY FILM</b></h1>
+                                <h2 class="fh5co-sub-lead to-animate"/>Enjoy the best premieres and films,<b> at any given time!</b>
+                                <p th:if="${param.error}" style="color:red"> <b>Wrong credentials</b> </p>
+                                <p th:if="${param.logout}" style="color:red"><b>Logged out succesfully</b></p>
+                                <form th:action="@{/login}" method="post">
+                                    <div class="form-group col-5 col-md-4">
+                                        <label for="usr">Username:</label>
+                                        <input type="text" class="form-control user" name="username"/>
+                                    </div>
+
+                                    <div class="form-group col-5 col-md-4">
+                                        <label for="pwd">Password:</label>
+                                        <input type="password" class="form-control pwd" name="password"/>
+                                    </div>
+
+                                    <div class="form-group col-5 col-md-5">
+                                        <input type="submit" class="btn btn-info" value="Log in"/>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-md-pull-7 col-sm-4 col-sm-pull-7 iphone-image">
+                        <div class="iphone to-animate-2"><img src="img/Lightsaber_blue.png"/></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<div id="fh5co-about-us" data-section="about">
+<!-- About, con una pequeña explicacion de la pagina web -->
+    <div class="container">
+        <div class="row row-bottom-padded-lg" id="about-us">
+            <div class="col-md-12 section-heading text-center">
+                <h2 class="to-animate">Easy Film</h2>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 to-animate">
+                        <h3>Made with love.</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 to-animate">
+                <img src="img/sw.png" class="img-responsive img-rounded" alt="Free HTML5 Template"/>
+            </div>
+            <div class="col-md-4 to-animate gray">
+                <p><b>A LONG TIME AGO IN A GALAXY FAR FAR AWAY...</b></p>
+                <p>Easy film is a web design applications project where work is accompained by pleasure. Here you will be able to find any movies you want, whenever you want and from wherever you want.</p>
+            </div>
+        </div>
+        <div class="row" id="team" data-section="team">
+            <div class="col-md-12 section-heading text-center to-animate">
+            <!-- Contacto con los creadores, con links a LinkedIn, github y twitter -->
+                <p><b>About us</b></p>
+            </div>
+            <div class="col-md-12">
+                <div class="row row-bottom-padded-lg">
+                    <div class="col-md-6 text-center to-animate">
+                        <div class="person gray">
+                            <img src="img/Chechu.png" class="img-responsive img-rounded" alt="Person"/>
+                            <p class="name"><b>JESÚS</b></p>
+                            <div class="position">Web Developer</div>
+                            <p>ETSIINF BsC Engineering Student. Food lover. </p>
+                            <ul class="social social-circle">
+                                <li><a href="https://twitter.com/JesusPMelero" class="fa fa-twitter"></a></li>
+                                <li><a href="https://www.linkedin.com/in/jesusperezmelero/" class="fa fa-linkedin"></a></li>
+                                <li><a href="https://github.com/JLumos" class="fa fa-github"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 text-center to-animate">
+                        <div class="person gray">
+                            <img src="img/Ale.png" class="img-responsive img-rounded" alt="Person"/>
+                            <p class="name"><b>ALEJANDRA</b></p>
+                            <div class="position">Web Designer</div>
+                            <p>ETSIINF BsC Engineering Student. Proud Gryffindor.</p>
+                             <ul class="social social-circle">
+                                 <li><a href="https://twitter.com/aleee_lugi" class="fa fa-twitter"></a></li>
+                                 <li><a href="https://www.linkedin.com/in/AlejandraLugilde/" class="fa fa-linkedin"></a></li>
+                                 <li><a href="https://github.com/alugilde" class="fa fa-github"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Footer comun a la pagina -->
+<footer id="footer" role="contentinfo">
+    <div class="container">
+        <div class="row row-bottom-padded-sm">
+            <div class="col-md-12">
+                <p class="copyright text-center">&copy; Easy Film 2017</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="js/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="js/jquery.waypoints.min.js"></script>
+<!-- Owl Carousel -->
+<script src="js/owl.carousel.min.js"></script>
+
+
+<!-- JS -->
+<script src="js/main.js"></script>
+
+</body>
+</html>

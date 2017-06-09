@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<html class="no-js"/> 
+
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<title>EASY FILM</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link rel="shortcut icon" href="favicon.ico"/>
+
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'/>
+
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css"/>
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css"/>
+	<!-- Simple Line Icons -->
+	<link rel="stylesheet" href="css/simple-line-icons.css"/>
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
+	<link rel="stylesheet" href="css/owl.theme.default.min.css"/>
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+
+	<link rel="stylesheet" href="css/style.css"/>
+
+
+</head>
+<body>
+
+
+<!-- Pantalla que se muestra una vez se ha modificado un usuario o una pelicula, mostrando todos los campos de uno u otro actualizados -->
+
+<div th:if="${type == 'multimedia'}" id="fh5co-press" data-section="about">
+	<div class="container">
+		<div class="row row-bottom-padded-lg" id="about-us">
+			<div class="col-md-12 section-heading text-center">
+				<h2>Movie has been correctly modified</h2>
+				<input type="button" class="btn btn-primary" value="Inicio" onclick="location.href = '/admin/movies';"/>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div th:if="${type == 'user'}" id="fh5co-press" data-section="about">
+	<div class="container">
+		<div class="row row-bottom-padded-lg" id="about-us">
+			<div class="col-md-12 section-heading text-center">
+				<h2>User has been correctly modified</h2>
+				<input type="button" class="btn btn-primary" value="Inicio" onclick="location.href = '/admin/users';"/>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Footer comun a toda la app -->
+<footer id="footer" role="contentinfo">
+	<div class="container">
+		<div class="row row-bottom-padded-sm">
+			<div class="col-md-12">
+				<p class="copyright text-center">&copy; Easy Film 2017</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="js/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="js/jquery.waypoints.min.js"></script>
+<!-- Owl Carousel -->
+<script src="js/owl.carousel.min.js"></script>
+
+
+
+<!-- Main JS (Do not remove) -->
+<script src="js/main.js"></script>
+
+</body>
+</html>
