@@ -16,5 +16,5 @@ Es un proyecto desarrollado en la asignatura Diseño de Aplicaciones Web de la U
 - Java
 
 # Autores
-- Alejandra Lugilde Crende
-- Jesus Perez Melero
+- Alejandra Lugilde Crende (Front-end)
+- Jesus Perez Melero (Back-end)
