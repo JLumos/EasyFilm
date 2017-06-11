@@ -1,6 +1,3 @@
-# DAW
-Repositorio para el proyecto de DAW
-
 # Easy Film
 Easy Film es una aplicacion web que te permite visualizar contenido online de peliculas y series.
 Es un proyecto desarrollado en la asignatura Diseño de Aplicaciones Web de la UPM (ETSIINF).
