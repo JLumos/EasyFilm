@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+<html class="no-js"/> 
+
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<title>EASY FILM</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link rel="shortcut icon" href="favicon.ico"/>
+
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'/>
+
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css"/>
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css"/>
+	<!-- Simple Line Icons -->
+	<link rel="stylesheet" href="css/simple-line-icons.css"/>
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
+	<link rel="stylesheet" href="css/owl.theme.default.min.css"/>
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+
+	<link rel="stylesheet" href="css/style.css"/>
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+<header role="banner" id="fh5co-header">
+	<div class="container">
+		<!-- <div class="row"> -->
+		<nav class="navbar navbar-default">
+			<div class="navbar-header">
+				<!-- NavBar comun a toda la app -->
+				<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+				<a class="navbar-brand" href="/home">Easy Film</a>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+
+					<li class="active"><a href="/home" data-nav-section="home"><span th:text="${active}"></span></a></li>
+					<li th:if="${nombreUsuario == 'admin'}" class="active"><a href="/admin/users" data-nav-section="home"><span>Users</span></a></li>
+					<li th:if="${nombreUsuario == 'admin'}" class="active"><a href="/admin/movies" data-nav-section="home"><span>Movies</span></a></li>
+					<li class="active"><a href="/favs" data-nav-section="home"><span>Favorites</span></a></li>
+					<li class="active"><a href="/login?logout" data-nav-section="home"><span>Logout</span></a></li>
+
+					<li class="active"><a> <div class="col-md-16">
+						<form th:action="@{/movies}" th:object="${pelicula}" method="post">
+							<input type="text" class="form-control busqueda" placeholder="Search movie..." th:field="*{nombrePelicula}"/>
+						</form>
+
+					</div><!-- /input-group --></a></li>
+
+				</ul>
+			</div>
+		</nav>
+		<!-- </div> -->
+	</div>
+</header>
+
+
+<!-- Cuando se ve una pelicula, se muestra no solo su titulo, si no tambien su reparto, año y puntuacion media. En caso de que haya trailer disponible, se muestra este, y si no un mensaje que lo comunique. Si la pelicula no se encuentra entre las favoritas del usuario, se muestra un boton que permita añadirla a favorita, y en caso de que si lo esté, este botón se sustituye por otro que da de baja esa pelicula de las favoritas -->
+
+<div id="fh5co-press" data-section="press">
+	<div class="container" style="overflow-x:auto;">
+		<div class="row">
+			<div class="col-md-12 section-heading text-center">
+				<h2><span th:text ="${title}"/></h2>
+				<h3><span th:text ="${plot}"/></h3>
+				<div class="containter" align="center">
+					<table width="100%">
+						<tr>
+							<th><h3><b>Director</b></h3></th>
+							<th><h3><b>Cast</b></h3></th>
+							<th><h3><b>Year</b></h3></th>
+							<th><h3><b>Rating</b></h3></th>
+						</tr>
+						<tr>
+							<th><span th:text ="${director}"/></th>
+							<th><span th:text ="${actors}"/></th>
+							<th><span th:text ="${year}"/></th>
+							<th><span th:text ="${rated}"/></th>
+						</tr>
+					</table>
+				</div>
+				<div th:if="${hayTrailer}">
+					<div align="center">
+						<iframe width="100%" height="500"
+								th:src="@{${trailer}}"
+								frameborder="0" allowfullscreen="1"></iframe>
+					</div>
+				</div>
+
+				<div th:unless="${hayTrailer}">
+					<div class="row">
+						<div class="col-md-12 section-heading text-center">
+							<h3>No trailer available</h3>
+						</div>
+					</div>
+				</div>
+
+				<div th:if="${isFav}">
+					<a th:href="@{|/unfav?name=${title}&amp;src=movie|}" class="btn btn-warning btn-sm">
+						<span class="glyphicon glyphicon-remove"></span> Unfav
+					</a>
+				</div>
+
+				<div th:unless="${isFav}">
+					<a th:href="@{|/fav?name=${title}|}" class="btn btn-warning btn-sm">
+						<span class="glyphicon glyphicon-star"></span> Fav
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<!-- Por cada una de las peliculas, a mayores, hay una seccion de comentarios que permite escribir un comentario nuevo y visualizar los existentes (correspondientes a la pelicula actual)  -->
+
+<div id="fh5co-testimonials" data-section="testimonials">
+	<div class="container">
+
+		<h3><b>Add a comment</b></h3>
+		<form th:action="@{|/comment?name=${title}|}" th:object="${comentario}" method="post">
+			<div class ="comentario">
+				<textarea width="100%" rows="4" cols="50" maxlength="144" th:field="*{texto}" placeholder="Type your comment..."></textarea>
+			</div>
+			<div class="dcha">
+				<input type="submit" class="btn btn-info" value="Send"/>
+			</div>
+		</form>
+
+		<div class="row">
+			<th:block th:each="comentario : ${comentarios}">
+				<div class="col-md-12">
+					<div class="box-testimony to-animate">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<div class="izda">
+								<p>&ldquo;<span th:text="${comentario.texto}"/>&rdquo;</p>
+							</div>
+						</blockquote>
+						<p class="author"> <span th:text="${comentario.autor.user}"/> </p>
+					</div>
+				</div>
+			</th:block>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- Footer comun a toda la app -->
+<footer id="footer" role="contentinfo">
+	<div class="container">
+		<div class="row row-bottom-padded-sm">
+			<div class="col-md-12">
+				<p class="copyright text-center">&copy; Easy Film 2017</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="js/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="js/jquery.waypoints.min.js"></script>
+<!-- Owl Carousel -->
+<script src="js/owl.carousel.min.js"></script>
+
+
+
+<!-- JS -->
+<script src="js/main.js"></script>
+
+</body>
+</html>

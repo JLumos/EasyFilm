@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="110.0" y="441.0">upm.daw.easyfilm.model.Usuario</node>
+    <node x="575.0666666666666" y="446.0">upm.daw.easyfilm.model.Opinion</node>
+    <node x="102.23333333333332" y="0.0">upm.daw.easyfilm.model.Pelicula</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="upm.daw.easyfilm.model.Pelicula" target="upm.daw.easyfilm.model.Opinion">
+      <point x="0.0" y="180.5" />
+      <point x="540.2333333333333" y="121.0" />
+      <point x="688.5" y="120.0" />
+      <point x="685.5" y="141.0" />
+      <point x="685.0666666666666" y="298.0" />
+      <point x="0.0" y="-59.0" />
+    </edge>
+    <edge source="upm.daw.easyfilm.model.Opinion" target="upm.daw.easyfilm.model.Usuario">
+      <point x="-71.33333333333331" y="-59.0" />
+      <point x="442.73333333333335" y="447.0" />
+      <point x="302.5" y="450.0" />
+      <point x="0.0" y="125.5" />
+    </edge>
+    <edge source="upm.daw.easyfilm.model.Usuario" target="upm.daw.easyfilm.model.Pelicula">
+      <point x="0.0" y="-125.5" />
+      <point x="273.5" y="414.0" />
+      <point x="176.23333333333335" y="414.0" />
+      <point x="-144.0" y="180.5" />
+    </edge>
+    <edge source="upm.daw.easyfilm.model.Opinion" target="upm.daw.easyfilm.model.Pelicula">
+      <point x="71.33333333333331" y="-59.0" />
+      <point x="755.4" y="336.0" />
+      <point x="753.5" y="341.0" />
+      <point x="655.5" y="341.0" />
+      <point x="546.2333333333333" y="340.0" />
+      <point x="144.0" y="180.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="267.5" y="415.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

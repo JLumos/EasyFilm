@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="489.0" y="0.0">upm.daw.easyfilm.rest.TrailerInfo</node>
+    <node x="0.0" y="575.0">upm.daw.easyfilm.rest.RestClient</node>
+    <node x="0.0" y="0.0">upm.daw.easyfilm.rest.MovieResult</node>
+    <node x="546.0" y="301.0">upm.daw.easyfilm.rest.InfoResultTrailer</node>
+    <node x="373.0" y="575.0">upm.daw.easyfilm.rest.Search</node>
+    <node x="80.5" y="433.0">upm.daw.easyfilm.rest.InfoResult</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="upm.daw.easyfilm.rest.InfoResultTrailer" target="upm.daw.easyfilm.rest.TrailerInfo">
+      <point x="0.0" y="-59.5" />
+      <point x="0.0" y="125.5" />
+    </edge>
+    <edge source="upm.daw.easyfilm.rest.InfoResult" target="upm.daw.easyfilm.rest.MovieResult">
+      <point x="0.0" y="-48.5" />
+      <point x="0.0" y="191.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="14.5" y="340.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

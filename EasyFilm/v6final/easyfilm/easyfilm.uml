@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>upm.daw.easyfilm</OriginalElement>
+  <nodes>
+    <node x="340.0" y="241.1142578125">upm.daw.easyfilm.Launcher</node>
+    <node x="42.23958333333337" y="-195.798828125">upm.daw.easyfilm.db</node>
+    <node x="184.671875" y="-48.798828125">upm.daw.easyfilm.repository</node>
+    <node x="355.23958333333326" y="99.201171875">upm.daw.easyfilm.security</node>
+    <node x="-208.0" y="-44.798828125">upm.daw.easyfilm.model</node>
+    <node x="-37.390625" y="271.201171875">upm.daw.easyfilm.controller</node>
+    <node x="27.23958333333337" y="100.201171875">upm.daw.easyfilm.rest</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="225.0" y="172.0" />
+  <SelectedNodes>
+    <node>upm.daw.easyfilm.model</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

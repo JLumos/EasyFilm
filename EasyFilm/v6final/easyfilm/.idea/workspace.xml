@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5d81082-d130-4538-a2f2-31d82ce9f02f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/Launcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+      <find>000000</find>
+      <find>img</find>
+      <find>recom</find>
+      <find>exec</find>
+      <find>execute</find>
+      <find>fondo</find>
+      <find>/admin/execute</find>
+      <find>usuario</find>
+      <find>wron</find>
+      <find>wrong</find>
+      <find>war</find>
+      <find>btn-da</find>
+      <find>btn-primary</find>
+      <find>hover</find>
+      <find>707</find>
+      <find>700</find>
+      <find>warning</find>
+      <find>btn-warning</find>
+      <find>textarea</find>
+      <find>input:</find>
+      <find>pane</find>
+      <find>Acceder</find>
+      <find>index</find>
+      <find>icon</find>
+      <find>social-circle</find>
+      <find>footer</find>
+      <find>nombreUsuario</find>
+      <find>media</find>
+      <find>medi</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>img</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userReady.html" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Favorita.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/searchUsers.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/searchMovies.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" />
+        <option value="D:/tmp/Responsive Tables.url" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/error.html" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/ApiRestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/MovieService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/AdOpsController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Modified.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Removed.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Ready.html" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/EFController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/EFController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/app/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/Search.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/OpinionRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Pelicula.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Opinion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/InfoResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/TrailerInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/MovieResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/InfoResult2Trailer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/InfoResultTrailer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/comun/ComunOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Estado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/UsuarioRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/MovieController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/ComunOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/db/DatabaseLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/RestClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/security/CustomAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/security/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/PeliculaRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/adOpsCreate.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/adOpsDelete.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/adOpsModify.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/favs.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/movie.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/movieControlPanel.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/movies.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userControlPanel.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easyfilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Facultad de Informatica\4 - Cuarto Curso\Diseño de Aplicaciones Web\easyfilm\src\main\resources\templates" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="upm.daw.easyfilm.rest" />
+      <recent name="upm.daw" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Launcher">
+    <configuration default="false" name="SimpleSecurityApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="upm.daw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="upm.daw.SimpleSecurityApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="securitytest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Launcher" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="upm.daw.easyfilm.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="upm.daw.easyfilm.Launcher" />
+      <module name="easyfilm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="securitytest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.SimpleSecurityApp" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Launcher" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Launcher" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleSecurityApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d81082-d130-4538-a2f2-31d82ce9f02f" name="Default" comment="" />
+      <created>1492789259197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492789259197</updated>
+      <workItem from="1494703137911" duration="366000" />
+      <workItem from="1494706165947" duration="1890000" />
+      <workItem from="1494716121234" duration="957000" />
+      <workItem from="1494798293800" duration="617000" />
+      <workItem from="1494800516130" duration="3050000" />
+      <workItem from="1495117664678" duration="872000" />
+      <workItem from="1495145412115" duration="363000" />
+      <workItem from="1495145807536" duration="9000" />
+      <workItem from="1495145839875" duration="3091000" />
+      <workItem from="1495184454304" duration="13209000" />
+      <workItem from="1495705721079" duration="3355000" />
+      <workItem from="1495722310890" duration="610000" />
+      <workItem from="1495903984344" duration="7225000" />
+      <workItem from="1496160592589" duration="18200000" />
+      <workItem from="1496183609452" duration="8146000" />
+      <workItem from="1496228561019" duration="45948000" />
+      <workItem from="1496304415817" duration="4615000" />
+      <workItem from="1496327047071" duration="36814000" />
+      <workItem from="1496393203016" duration="56337000" />
+      <workItem from="1496492603151" duration="3764000" />
+      <workItem from="1496503371221" duration="5076000" />
+      <workItem from="1496509696294" duration="635000" />
+      <workItem from="1496513216270" duration="2526000" />
+      <workItem from="1496523638640" duration="5137000" />
+      <workItem from="1496535778882" duration="2891000" />
+      <workItem from="1496661011180" duration="3210000" />
+      <workItem from="1496669256519" duration="521000" />
+      <workItem from="1496833100203" duration="10340000" />
+      <workItem from="1496868117972" duration="4196000" />
+      <workItem from="1496930615261" duration="31785000" />
+      <workItem from="1496996735295" duration="640000" />
+      <workItem from="1497022793327" duration="1607000" />
+      <workItem from="1497031005169" duration="692000" />
+      <workItem from="1497044349527" duration="12000" />
+      <workItem from="1497044447527" duration="353000" />
+      <workItem from="1497206748007" duration="791000" />
+      <workItem from="1497698532802" duration="490000" />
+      <workItem from="1497800811938" duration="1168000" />
+      <workItem from="1497802012218" duration="6413000" />
+      <workItem from="1497811840119" duration="635000" />
+      <workItem from="1497855509268" duration="1235000" />
+      <workItem from="1497862912654" duration="766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="291299000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30232558" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18645833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/MovieController.java</url>
+          <line>175</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="88" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="info.movieResults.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/Removed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1468">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.8.RELEASE/spring-web-4.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Estado.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/InfoResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/InfoResultTrailer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/MovieResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2434">
+          <caret line="58" column="89" lean-forward="false" selection-start-line="58" selection-start-column="89" selection-end-line="58" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/TrailerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="38" column="71" lean-forward="true" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/security/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="1143" column="32" lean-forward="true" selection-start-line="1143" selection-start-column="32" selection-end-line="1143" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/keystore.jks">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="498" column="67" lean-forward="false" selection-start-line="498" selection-start-column="67" selection-end-line="498" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/ComunOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="101" column="49" lean-forward="false" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/MovieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="295" column="87" lean-forward="false" selection-start-line="295" selection-start-column="87" selection-end-line="295" selection-end-column="87" />
+          <folding>
+            <element signature="method#getPeliculas#0;class#MovieController#0" expanded="false" />
+            <element signature="method#getPeliculas#1;class#MovieController#0" expanded="false" />
+            <element signature="method#getPelicula#0;class#MovieController#0" expanded="false" />
+            <element signature="method#setFav#0;class#MovieController#0" expanded="false" />
+            <element signature="method#unFav#0;class#MovieController#0" expanded="false" />
+            <element signature="method#showFavs#0;class#MovieController#0" expanded="false" />
+            <element signature="method#despliegueFavs#0;class#MovieController#0" expanded="false" />
+            <element signature="method#postComment#0;class#MovieController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/db/DatabaseLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Opinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Pelicula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-975">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/OpinionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/UsuarioRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-easyfilm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-easyfilm</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-easyfilm</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="65.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">ognl</node>
+            <node x="" y="">static</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">ch</node>
+            <node x="" y="">templates</node>
+            <node x="" y="">antlr</node>
+            <node x="" y="">aj</node>
+            <node x="" y="">nz</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">license</node>
+            <node x="" y="">upm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">javassist</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="230.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/Facultad de Informatica/4 - Cuarto Curso/Diseño de Aplicaciones Web/easyfilm/src/main/java/upm/daw/easyfilm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/upm/daw/easyfilm</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="781.0" y="446.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/upm.daw.easyfilm.controller">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>upm.daw.easyfilm.controller</OriginalElement>
+          <nodes>
+            <node x="0.0" y="-183.0">upm.daw.easyfilm.controller.MovieController</node>
+            <node x="-623.0" y="-185.0">upm.daw.easyfilm.controller.AdminController</node>
+            <node x="-626.0" y="193.0">upm.daw.easyfilm.controller.ComunOperations</node>
+            <node x="2.0" y="157.0">upm.daw.easyfilm.controller.HomeController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-466.0" y="-58.0" />
+          <SelectedNodes>
+            <node>upm.daw.easyfilm.controller.HomeController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SpringLocalModels/module=easyfilm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>module=easyfilm</OriginalElement>
+          <nodes>
+            <node x="" y="">module=easyfilm</node>
+            <node x="" y="">fileset=easyfilm/Launcher</node>
+            <node x="" y="">upm.daw.easyfilm.Launcher</node>
+            <node x="" y="">upm.daw.easyfilm.security.SecurityConfiguration</node>
+            <node x="" y="">org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity</node>
+            <node x="" y="">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="428.0" y="41.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/PeliculaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-397.0" y="-75.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/upm.daw.easyfilm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>upm.daw.easyfilm</OriginalElement>
+          <nodes>
+            <node x="" y="">upm.daw.easyfilm.Launcher</node>
+            <node x="" y="">upm.daw.easyfilm.db</node>
+            <node x="" y="">upm.daw.easyfilm.repository</node>
+            <node x="" y="">upm.daw.easyfilm.security</node>
+            <node x="" y="">upm.daw.easyfilm.model</node>
+            <node x="" y="">upm.daw.easyfilm.controller</node>
+            <node x="" y="">upm.daw.easyfilm.rest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="225.0" y="172.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyfilm.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>upm.daw.easyfilm</OriginalElement>
+          <nodes>
+            <node x="" y="">upm.daw.easyfilm.Launcher</node>
+            <node x="" y="">upm.daw.easyfilm.db</node>
+            <node x="" y="">upm.daw.easyfilm.repository</node>
+            <node x="" y="">upm.daw.easyfilm.security</node>
+            <node x="" y="">upm.daw.easyfilm.model</node>
+            <node x="" y="">upm.daw.easyfilm.controller</node>
+            <node x="" y="">upm.daw.easyfilm.rest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="225.0" y="172.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/db/db.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="-183.5" y="-108.5">upm.daw.easyfilm.db.DatabaseLoader</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-539.0" y="-184.0" />
+          <SelectedNodes>
+            <node>upm.daw.easyfilm.db.DatabaseLoader</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/model/model.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="110.0" y="441.0">upm.daw.easyfilm.model.Usuario</node>
+            <node x="575.0666666666666" y="446.0">upm.daw.easyfilm.model.Opinion</node>
+            <node x="102.23333333333332" y="0.0">upm.daw.easyfilm.model.Pelicula</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="upm.daw.easyfilm.model.Pelicula" target="upm.daw.easyfilm.model.Opinion">
+              <point x="0.0" y="180.5" />
+              <point x="540.2333333333333" y="121.0" />
+              <point x="688.5" y="120.0" />
+              <point x="685.5" y="141.0" />
+              <point x="685.0666666666666" y="298.0" />
+              <point x="0.0" y="-59.0" />
+            </edge>
+            <edge source="upm.daw.easyfilm.model.Opinion" target="upm.daw.easyfilm.model.Usuario">
+              <point x="-71.33333333333331" y="-59.0" />
+              <point x="442.73333333333335" y="447.0" />
+              <point x="302.5" y="450.0" />
+              <point x="0.0" y="125.5" />
+            </edge>
+            <edge source="upm.daw.easyfilm.model.Usuario" target="upm.daw.easyfilm.model.Pelicula">
+              <point x="0.0" y="-125.5" />
+              <point x="273.5" y="414.0" />
+              <point x="176.23333333333335" y="414.0" />
+              <point x="-144.0" y="180.5" />
+            </edge>
+            <edge source="upm.daw.easyfilm.model.Opinion" target="upm.daw.easyfilm.model.Pelicula">
+              <point x="71.33333333333331" y="-59.0" />
+              <point x="755.4" y="336.0" />
+              <point x="753.5" y="341.0" />
+              <point x="655.5" y="341.0" />
+              <point x="546.2333333333333" y="340.0" />
+              <point x="144.0" y="180.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-272.0" y="210.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/repository/repository.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="348.0">upm.daw.easyfilm.repository.OpinionRepository</node>
+            <node x="0.0" y="185.0">upm.daw.easyfilm.repository.PeliculaRepository</node>
+            <node x="0.0" y="0.0">upm.daw.easyfilm.repository.UsuarioRepository</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-540.0" y="-185.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/rest.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="489.0" y="0.0">upm.daw.easyfilm.rest.TrailerInfo</node>
+            <node x="0.0" y="575.0">upm.daw.easyfilm.rest.RestClient</node>
+            <node x="0.0" y="0.0">upm.daw.easyfilm.rest.MovieResult</node>
+            <node x="546.0" y="301.0">upm.daw.easyfilm.rest.InfoResultTrailer</node>
+            <node x="373.0" y="575.0">upm.daw.easyfilm.rest.Search</node>
+            <node x="80.5" y="433.0">upm.daw.easyfilm.rest.InfoResult</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="upm.daw.easyfilm.rest.InfoResultTrailer" target="upm.daw.easyfilm.rest.TrailerInfo">
+              <point x="0.0" y="-59.5" />
+              <point x="0.0" y="125.5" />
+            </edge>
+            <edge source="upm.daw.easyfilm.rest.InfoResult" target="upm.daw.easyfilm.rest.MovieResult">
+              <point x="0.0" y="-48.5" />
+              <point x="0.0" y="191.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-525.0" y="136.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/security/security.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="147.0">upm.daw.easyfilm.security.SecurityConfiguration</node>
+            <node x="47.5" y="0.0">upm.daw.easyfilm.security.CustomAuthenticationProvider</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="upm.daw.easyfilm.security.SecurityConfiguration" target="upm.daw.easyfilm.security.CustomAuthenticationProvider">
+              <point x="0.0" y="-48.5" />
+              <point x="0.0" y="48.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-540.0" y="-205.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/controller.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">upm.daw.easyfilm.controller.MovieController</node>
+            <node x="" y="">upm.daw.easyfilm.controller.AdminController</node>
+            <node x="" y="">upm.daw.easyfilm.controller.ComunOperations</node>
+            <node x="" y="">upm.daw.easyfilm.controller.HomeController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="15.0" y="401.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/rest/RestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/adOpsCreate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/adOpsDelete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/adOpsModify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/favs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/movie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="40" column="53" lean-forward="false" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/movieControlPanel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/movies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/security/CustomAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/userControlPanel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upm/daw/easyfilm/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>securitytest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
